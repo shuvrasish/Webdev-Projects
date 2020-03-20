@@ -1,0 +1,29 @@
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+body {
+    text-align: center;
+    font-family: "Lato";
+    background: url("https://images.unsplash.com/photo-1584608354184-b4b9d3108249?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+}
+
+.content {
+    text-align: center;
+}
+
+.container {
+    margin: 250px;
+}
+
+.input-group {
+    justify-content: center;
+}
+
+input {
+    max-width: 400px;
+}
